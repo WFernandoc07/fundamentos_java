@@ -1,0 +1,25 @@
+
+†
+java:S1854"CRemove this useless assignment to local variable "worldPopulation".(¡¨ª„8ô¶óí„2J$e416bae5-b9bf-4212-996b-078afbd3976c
+~
+java:S1854"<Remove this useless assignment to local variable "capacity".(¼Ê8ô¶óí„2J$71b56055-23b4-4eac-bb3e-2db98cb8dd78
+€
+java:S1854"8Remove this useless assignment to local variable "edad".(›ÞÃªþÿÿÿÿ8õ¶óí„2J$58874ac8-5c2e-4a10-bb99-f906656058b8
+†
+java:S1854">Remove this useless assignment to local variable "sensorData".(òžË£þÿÿÿÿ8õ¶óí„2J$9bacebf7-4c81-4a49-8b6a-f03ad839d796
+‰
+java:S1854"ARemove this useless assignment to local variable "estaturaMetro".(¿ö™þùÿÿÿÿ8õ¶óí„2J$9c6a7c26-68fd-46a8-a8fb-22a0071a23bc
+r	java:S106"+Replace this use of System.out by a logger.(Ž½Ž¦ÿÿÿÿÿ8õ¶óí„2J$beeab89c-0286-439a-b21a-77846fabf891
+r	java:S106"+Replace this use of System.out by a logger.(›Ÿ¼Ñýÿÿÿÿ8÷¶óí„2J$fdb7494d-f42c-4022-95c6-22941eb24e6e
+~	java:S125"<This block of commented-out lines of code should be removed.(ò±ÿ8÷¶óí„2J$d542a66c-f5c8-4085-af93-f1a1f7e0ce7a
+z
+java:S1481"2Remove this unused "estaturaMetro" local variable.(¿ö™þùÿÿÿÿ8÷¶óí„2J$1c4ccf0a-2efc-4eec-93d9-8c70f7572aeb
+w
+java:S1481"/Remove this unused "sensorData" local variable.(òžË£þÿÿÿÿ8ø¶óí„2J$6ffe0c98-bd53-4a2b-a0f1-83df729cfd39
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ù¶óí„2J$4cd65eeb-902e-43a9-96f0-b785984eeee9
+q
+java:S1481")Remove this unused "edad" local variable.(›ÞÃªþÿÿÿÿ8ú¶óí„2J$0e920e1b-e4fe-4944-b1a3-32069e1fa904
+o
+java:S1481"-Remove this unused "capacity" local variable.(¼Ê8ú¶óí„2J$f346d26d-53b9-40b5-a14c-8482022052f4
+w
+java:S1481"4Remove this unused "worldPopulation" local variable.(¡¨ª„8û¶óí„2J$5071db79-aaef-4bc7-be31-ac8ea9af7674
